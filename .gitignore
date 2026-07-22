@@ -1,0 +1,6 @@
+.idea
+src/domain
+src/repository
+src/services
+src/start
+src/ui
