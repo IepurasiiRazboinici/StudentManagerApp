@@ -4,3 +4,4 @@ src/repository
 src/services
 src/start
 src/ui
+/src/util/backend/node_modules/
